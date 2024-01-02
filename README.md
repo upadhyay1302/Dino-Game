@@ -1,7 +1,5 @@
 # Dino Game
 
-![Dino Game Screenshot](screenshots/screenshot.png)
-
 A simple side-scrolling endless runner game built with Python and Pygame.
 
 ## Table of Contents
